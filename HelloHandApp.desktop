@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hello Hand App
+Comment=Listens for "hello" and raises the robot's hand
+Exec=python3 /home/pi/hello_hand_app.py
+Icon=utilities-terminal
+Terminal=true
+Categories=Utility;
